@@ -2,7 +2,7 @@
 
 Flat image files under `logos/` are published as versioned zip bundles on GitHub Releases.
 
-**Latest release:** `v1.0.1` (169 crests). Newer builds include per-file `files[]` and `changelog` in `manifest.json`.
+**Latest release:** `v1.0.2` (169 crests). Newer builds include per-file `files[]` and `changelog` in `manifest.json`.
 
 ## Maintainer workflow
 
