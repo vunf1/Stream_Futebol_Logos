@@ -31,7 +31,7 @@ Outputs land in `dist/` (gitignored). Per-version file lists are written to `man
 ## Manifest URL (desktop app)
 
 ```text
-https://github.com/vunf1/Stream_Futebol_Logos/releases/latest/download/manifest.json
+https://github.com/vunf1/Stream_Futebol_Artifacts/releases/latest/download/manifest.json
 ```
 
 ## Git storage

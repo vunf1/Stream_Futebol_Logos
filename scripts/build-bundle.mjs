@@ -26,7 +26,7 @@ const IMAGE_EXT = new Set([
   ".apng", ".xbm", ".xpm", ".jp2", ".j2k", ".jpx", ".jxl",
 ]);
 
-const GITHUB_REPO = "vunf1/Stream_Futebol_Logos";
+const GITHUB_REPO = "vunf1/Stream_Futebol_Artifacts";
 
 function parseArgs(argv) {
   let version = "";
