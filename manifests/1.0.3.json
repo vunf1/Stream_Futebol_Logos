@@ -1,0 +1,681 @@
+{
+  "version": "1.0.3",
+  "files": [
+    {
+      "name": "A BENEDITENSE CD.png",
+      "sha256": "b334b4d3585b967e631f0e43ef94fd33c67c6b06f308c5cc4359690e8399a8dc"
+    },
+    {
+      "name": "AA BELA VISTA.png",
+      "sha256": "76d1ed436ecb677400451f32181c4980e40abe1454ab265472748ee6dc5cbc22"
+    },
+    {
+      "name": "AC MARINHENSE.png",
+      "sha256": "c2f17c2f0cc9c5f4665030b12da0edeea8a74a670e72340d18ed2a3f291ffa6c"
+    },
+    {
+      "name": "AC PORTO SALVO.png",
+      "sha256": "c69016f85b33e55e96ecf124378ab06db647f8486ed323d5e87226f8cc8025d6"
+    },
+    {
+      "name": "AC-PORTO-SALVO.jpg",
+      "sha256": "8f66b3027b57a92a61aad3bcdfc0cc0a2a4c4e3ed2150c38e89c93a6c203329c"
+    },
+    {
+      "name": "ACADEMIA-CCMI.jpg",
+      "sha256": "56ab99d14381f20deaa32a35becf1be8566eabbb22db9c5625a3fe84a7fd797b"
+    },
+    {
+      "name": "ACF PAULETA.png",
+      "sha256": "fb6e9bed836054854dbdb1fa142e6027681560e9d6e00b010ea3a5424069ab44"
+    },
+    {
+      "name": "AD ALMADA 2015.png",
+      "sha256": "38a1a32f8a0884e1b471456565aa1090eca3f7765270e3daf2ee4b289fda6db7"
+    },
+    {
+      "name": "AD BOBADELENSE.png",
+      "sha256": "714eb570f8ca3532280802265f1b95ae0adaa69004851f3e40976ff8c90c5c63"
+    },
+    {
+      "name": "AD CCMI.png",
+      "sha256": "8f13f4bc1d0a5c2a8a699eb511fb61cc0968f2070f044bd367f97ffe43434061"
+    },
+    {
+      "name": "AD LOUSADA.png",
+      "sha256": "bf59a51922e52b89cc181209cd8078f05a4940f854d2aaae3d3bcc4ff66773af"
+    },
+    {
+      "name": "AD OEIRAS.png",
+      "sha256": "a2e89acb7742612dada7ab562c13da593112d6cafa44a18777a19b7b5b6e6921"
+    },
+    {
+      "name": "AD-CAMACHA.jpg",
+      "sha256": "d73223b4a310691d34b8071e6b6543838a716b8d98a988bc79b4a187cd41dce7"
+    },
+    {
+      "name": "AD-CONSTANCE.jpg",
+      "sha256": "f112721946a589ce457f2b6179f47d35dbfd101b04b64e0e659a3032e48e41e8"
+    },
+    {
+      "name": "AD-QUINTA-CONDE.jpg",
+      "sha256": "4f35f7372ef285df6563a2340b6674912b852264a1f3b0bf93b2810a45fd474b"
+    },
+    {
+      "name": "ADECAS.jpeg",
+      "sha256": "0a2baa1903c476d3e3341545aecaab4c0b92471bc64cc47ceb20c9fba2ebf495"
+    },
+    {
+      "name": "ADRC PENAVERDENSE.png",
+      "sha256": "844b13835954dbcd15221172c1ed0ce1776e55182820e14f9ff3d794bd57a641"
+    },
+    {
+      "name": "AE ÓBIDOS.png",
+      "sha256": "a877facad7782dc50caf8c635bfbc15b717509a5a5d232f5cc9bd5a93a9fda9b"
+    },
+    {
+      "name": "AF ALCOITÃO.png",
+      "sha256": "bd473aa290d0e9c8c4c63cb0c3f701b52758e38ffa7da0267b2f4e1edfc9fd3f"
+    },
+    {
+      "name": "AF CLIP.png",
+      "sha256": "fb84a77c4a5d6133b04a1d30869722f207d458a971276a6063bd45a7b811981c"
+    },
+    {
+      "name": "AIX-FOOTBALL-CLUB.jpg",
+      "sha256": "fe8914e3277b7412094ab0286e24b295087546f5716ccbed1a0f8d9a92cf2487"
+    },
+    {
+      "name": "AMERICA CENTRO OESTE.jpeg",
+      "sha256": "3e9dfda92f5e55c70615bea6b97a92b25b2934e9be4561135e5e86d9c258ee29"
+    },
+    {
+      "name": "Amicale-FP-Tourcoing.png",
+      "sha256": "42c4d27e24037c7fbfba324ffe97d301558bf3fda0e281a2b38ea8c88f56851f"
+    },
+    {
+      "name": "AMORA FC.png",
+      "sha256": "4e6b411dfdced9ae8444d034647a4c143db300833bc9c030174fa59bf0989904"
+    },
+    {
+      "name": "AMORA-FC.jpg",
+      "sha256": "e4b99b162ed8b8bfb0a61d58c8fcf8aba2465f4fc3851c018aa6fbb764d16243"
+    },
+    {
+      "name": "Arenas de Vega.png",
+      "sha256": "4596d5d6a2da3d3eeaec8d8e2f4d0b31caff6bc2fc40f69243518b841eeccdfb"
+    },
+    {
+      "name": "ARRUPE.png",
+      "sha256": "97616aa1cd8900fd58ca355f18df6793b5de231eed4c4a12b8148e73294262ff"
+    },
+    {
+      "name": "AS SINTRA.png",
+      "sha256": "8fae05d518d31ceac2deac91039968212ed1fd06f03b91666e22a35ff7ee9424"
+    },
+    {
+      "name": "AS-SINTRA.jpg",
+      "sha256": "916a2d2747097eb2d93364898387fa1aac989b86235695ab60d82fe6046b5d8c"
+    },
+    {
+      "name": "ASRB LUXEMBOURG.png",
+      "sha256": "a31f0e39b6288c590036ae78239b92ddfe1df78fadb040fb686dbb2f106216d7"
+    },
+    {
+      "name": "BEF MARINHA GRANDE.png",
+      "sha256": "4726386159e053236b3a6178edfb08c69ca08aa066b38e982f761e325a757dc7"
+    },
+    {
+      "name": "BENFICA CAMPUS CÔTE D´IVOIRE.jpg",
+      "sha256": "117030e984ee89bb6623bb11e18d9e1a724f8cb402ed5d7edd138ec26aa94c4b"
+    },
+    {
+      "name": "BENFICA-EF.jpg",
+      "sha256": "11640b6aa83fc100ef37b0a6854160c6a649434a2422e50d026f0257679aede2"
+    },
+    {
+      "name": "C Asturiano Oviedo.png",
+      "sha256": "7c2f099d7677872bd46d95e8eff6cbab8f6b4f32852959df4c1eb0d59c04e84a"
+    },
+    {
+      "name": "CALDAS SC.png",
+      "sha256": "f8bf0f299933f5d9d4478b4ff17554bc81f6cccd9789cac5b12a5c32e9bbb709"
+    },
+    {
+      "name": "CASA PIA AC.png",
+      "sha256": "d3cc1d3c76b9ad38360cd76d402eacd07ce4e33a28f8cbbf3dfbb27f3c2e6a64"
+    },
+    {
+      "name": "CCD BREJOS AZEITÃO.png",
+      "sha256": "a3bfb59a3dfde957cae52b8a57d7dbd290a0232dc930c138ef3ae8f7460b7fac"
+    },
+    {
+      "name": "CCD CAXARIAS.png",
+      "sha256": "7ee44140980839c231c910a806423c5ba88bed3e7a1e63306292b1405dcd39ca"
+    },
+    {
+      "name": "CCD OLIVAIS SUL.png",
+      "sha256": "aed712bb5b9aaf34341f55e3eb3ac4fe13e770dff097a472bb1bb54cc4da3026"
+    },
+    {
+      "name": "CD 1º MAIO.png",
+      "sha256": "653887c4a69646ddcda8d897cd2f956aea537bc5945614991b1e77f52e656bc6"
+    },
+    {
+      "name": "CD COLÉGIO NOVO MAIA.png",
+      "sha256": "667db6ce9907f263e70ed892653a3834ba6b62f446d3110ab681044a46377eb3"
+    },
+    {
+      "name": "CD COVA PIEDADE.png",
+      "sha256": "221e58f73b43bddccb662d7cc17d8c095dc45bb5a92dfc007f8d8e51644d44c8"
+    },
+    {
+      "name": "CD EAF.png",
+      "sha256": "fba36257324d1d61b52a72a4e06cf2545eea90b606ecb01b273162fb43375f62"
+    },
+    {
+      "name": "CD MAFRA.png",
+      "sha256": "4419fb4cfacfa1c7cdb177ad881af82f3a95df7b8f79fcd83e3fdbbeead1a6ec"
+    },
+    {
+      "name": "CD NACIONAL.png",
+      "sha256": "563d4586821bbeb909aefe6f8e98f608ff6078f23a1950b3d477fba1baa486dd"
+    },
+    {
+      "name": "CD RAINHA.png",
+      "sha256": "89cfb55bdbc263f1d42900b3c9075a67fb6f030caecdacc1c838625d04e5f0da"
+    },
+    {
+      "name": "CD RIBEIRA BRAVA.png",
+      "sha256": "6eb1cc495f592fcc47605bed8a218e1ed1a6603cdb95dc8692cc07bdeaa1933a"
+    },
+    {
+      "name": "CD SANTA CLARA.png",
+      "sha256": "50e9a2d991e001fcceaa8ae55335ac805169dc51f98ca6af8dfb1beab68335f4"
+    },
+    {
+      "name": "CD SANTO ANTÓNIO.png",
+      "sha256": "1462035aa07df7bc6d3d94a35a44d664b04afdc5cde38119c7848d1d392eed43"
+    },
+    {
+      "name": "CD-COVA-PIEDADE.jpg",
+      "sha256": "c1b8636f57209972ec8b9ef6261212e397363a5d46a347022ba27503c813ff51"
+    },
+    {
+      "name": "CD-EAF.jpg",
+      "sha256": "7b81f9ff3beff7628fe6428b834139967b87142f50f70a3aa121db9e66f118a2"
+    },
+    {
+      "name": "CD-MAFRA.jpg",
+      "sha256": "5af46adc23a4257fa1cc857b31d09d959a3e26df9511bfd5dc64e62d8156279b"
+    },
+    {
+      "name": "CD-RAINHA.jpg",
+      "sha256": "c80479c60a4123e938fa5ff194b12a9b02e0602632ea40131d62b819c1f2c774"
+    },
+    {
+      "name": "CD-TORRES-NOVAS.jpg",
+      "sha256": "2711ef638fb3d6e585ccf9c434f29a8b570df9b6baf839ecca53fb6b8b318f92"
+    },
+    {
+      "name": "CD-VENDA-PINHEIRO.jpg",
+      "sha256": "4dd7d0ac2c4785923b1527374911d3e2547a7068fd031a07b497015d05a40493"
+    },
+    {
+      "name": "CENTRAL 32.png",
+      "sha256": "81ea86f66a872297842af54f861591fc46b4bb4ba068b13dcc9a3ba0e17aa4aa"
+    },
+    {
+      "name": "CEO LICEU.png",
+      "sha256": "d88be53c866714ac40151b173263ff39ad4a851e0d42ef08c1b79f62a3c35f5c"
+    },
+    {
+      "name": "CEO-LICEU.jpg",
+      "sha256": "10a29d42a5072300dabe325b65d119d51db95ff8ea1b3cb7094ab745e7805c04"
+    },
+    {
+      "name": "CERCA-FC.jpg",
+      "sha256": "22468c479361de6182715d3329f434b14c1ca48fabad4f42a629148dd2b93d64"
+    },
+    {
+      "name": "Cergy Pontoise.png",
+      "sha256": "de96f9d2c8f9b7f4f88fa6fde724ee3328c5dd1d95a4288e0b0ef5b5c5b1d788"
+    },
+    {
+      "name": "CF ANDORINHA.png",
+      "sha256": "090b0b4391f22bffe817903cf9fa3e256577d94895d2a1ac8ccf41ee3afa119c"
+    },
+    {
+      "name": "CF BENFICA.png",
+      "sha256": "4202051da9db67c5e65cdeb3f782f077eca55e50000d200e9cfe4a5828000eed"
+    },
+    {
+      "name": "CF FÃO.png",
+      "sha256": "b75aded4605ef5c47eba26dcc754601f37f4ca0618eeace746a426190fb77eac"
+    },
+    {
+      "name": "CF-BENFICA.jpg",
+      "sha256": "4c3d2e5130406ce5c55d1fd35fe3427e98bc98e57d37c3992e0416beab8aa24e"
+    },
+    {
+      "name": "CF-SANTA-IRIA.jpg",
+      "sha256": "04e22ce1092b65f77ff49c924ce2ed0fbbfc88172ff69f7af8cef842a2d0dada"
+    },
+    {
+      "name": "CHARNECA CAPARICA FC.png",
+      "sha256": "0573e4635b697e3d2ac92eba0a96c6b1cd71fe2cb7fb3a74085da8f39b662410"
+    },
+    {
+      "name": "CITY FOOT ACADEMY.png",
+      "sha256": "c7510a20e540b4fcf2a5887cfad27d16f192956b71cc3bef03fd7d57391ba42b"
+    },
+    {
+      "name": "CLUBE ORIENTAL LISBOA.png",
+      "sha256": "dc8e12cc3650060c1cd008b0c74c3bcfc5914815d9b4f396aa0467babdca0017"
+    },
+    {
+      "name": "Clube_Futebol_Benfica.svg.png",
+      "sha256": "ddeebec9c9b69692463667307c7c7c91a3a39f5cf3431c6bc07e2204c7de3dae"
+    },
+    {
+      "name": "CM FOOTBALL ACADEMY.png",
+      "sha256": "e1630786f18decdb5d46bd5d5e65a404aba96273217454c1812177cec887aae0"
+    },
+    {
+      "name": "CM-FOOTBALL-ACADEMY.jpg",
+      "sha256": "4485df06f6670a6b1e89e6a6e86724d2a024737c8182910159b8636e0704a9bc"
+    },
+    {
+      "name": "COLÉGIO PEDRO ARRUPE.jpeg",
+      "sha256": "4f1cc64257a6f33a51bac02bd5a30259bb223e1be7c05ed0fbd57bf6a3b9961e"
+    },
+    {
+      "name": "CR LEÕES PORTO SALVO.png",
+      "sha256": "0a2eac447231e24f18313da345914b5e824ac355db8577b706500e10e192b4d5"
+    },
+    {
+      "name": "CRD ARRUDENSE.png",
+      "sha256": "eec9a956a02adf1d41379122b52a78551945ce52a20467c6410689b524d7d738"
+    },
+    {
+      "name": "CS-JUVENTUDE-GAULA.jpg",
+      "sha256": "9bd2c9b980d707981d7fd5e2d28e0a32c0e4d3be17f4f17404c16ad17b7cc092"
+    },
+    {
+      "name": "CU MICAELENSE.png",
+      "sha256": "877349cd44352023d15713aa31441bd74008ae47810e72bd7e4f707f00dc37f9"
+    },
+    {
+      "name": "DDS DOMINGOS SÁVIO.png",
+      "sha256": "93d745566c0fb4afbf0bba1894895e5ee35a9db801042f55d2a42cfa11b3503a"
+    },
+    {
+      "name": "DF ERMESINDE.png",
+      "sha256": "1d2cc778635661990ae555681bd023820afd19608ad584266cd342cba28c7590"
+    },
+    {
+      "name": "DF-UNIV.-MAIA-1.jpg",
+      "sha256": "bc1d385b3316614f47db0051443743498c27c58c7aab20e946d58d207f397435"
+    },
+    {
+      "name": "DRAGON FORCE FC NB.png",
+      "sha256": "8dd1281f7acc8c8e3ec1253413480d1a757492df56887fc98b90855781adb162"
+    },
+    {
+      "name": "DRAGON FORCE FC UM.png",
+      "sha256": "2b02ebafa9d27baae55a77ccbc26a7743b4c82173c4f7361b2dcc02e3da47dc3"
+    },
+    {
+      "name": "EAST LONDON ATHLETIC FA.bmp",
+      "sha256": "8656c54b0f3b70ce78680524a6f339fbf65a0abf9c831a421dd2e22075b4a8ab"
+    },
+    {
+      "name": "EC PINHEIROS SP.png",
+      "sha256": "d9d1a70960ed64c3eb8b825c7dafeaf37038921e3de7bd294d17e22388fdb060"
+    },
+    {
+      "name": "EF LIVERPOOL FC ALGERIE.png",
+      "sha256": "a456fcf8319baa200c75cafee345a6334a5609b8737bfefddd17c23fbedd97f7"
+    },
+    {
+      "name": "EF-AREEIRO.jpg",
+      "sha256": "954c4da71197003ae589caff678a2f5788e3665b07a90607f3463937e23efacd"
+    },
+    {
+      "name": "EFB OEIRAS.png",
+      "sha256": "0736a45972e775cc4097d7e398b261de5acb9943a360706fa60403271d873cdc"
+    },
+    {
+      "name": "EFBO.png",
+      "sha256": "3086bca5ef6c47b79376f0658b8e4a661ecb52522d616e5aa819f2378a5bab00"
+    },
+    {
+      "name": "ESPERANÇA AC.png",
+      "sha256": "20e84a78405457600dbcf2c894991c213d6cd70419f779e3a66eac8016929459"
+    },
+    {
+      "name": "ESTRELAS.png",
+      "sha256": "704d10300c05878ed7d045ab3066ad7d7659323a0ab22ac2be8839f93c45e6ad"
+    },
+    {
+      "name": "FC BARREIRENSE.png",
+      "sha256": "fe6dc1fa2b7e63aa94b3c52dd8254be97dce2aa1bda98f8c0ccb671dc5bbff51"
+    },
+    {
+      "name": "FC FRACONVILLE.png",
+      "sha256": "6ffc982485be9b46d2d52d2b4dd0ad1724131eaecfc290ed03a660024c5d13fb"
+    },
+    {
+      "name": "FC MONTREUX SPORTS.png",
+      "sha256": "ba9fdc2baca5e20348ed80267786f8c5d34e1097300a0dd234ab9073761d4da7"
+    },
+    {
+      "name": "FC PORTUGIESEN.png",
+      "sha256": "2ca0a227ee2d9acaec6344fe8fad31974e865710b8838c7cb6683d0b6afc8e9b"
+    },
+    {
+      "name": "FC-BARREIRENSE.jpg",
+      "sha256": "88df740268eb16d32c7c65aee91fb893e72d45cec0ff322aa9a4dc25351a844e"
+    },
+    {
+      "name": "FC-DIFFERGANGE-03.jpg",
+      "sha256": "e7f929af4b7dd27e54275384a6419e6ee54fd34f79bc817c8b3694e61433396d"
+    },
+    {
+      "name": "FC-FRANCONVILLE.jpg",
+      "sha256": "eb8b35462d199d373908ef8856b92f6c04e2e2d8b71350a40e829d67e0968f3f"
+    },
+    {
+      "name": "FC-PORTO.jpg",
+      "sha256": "983577311c12e5392fedbbb23baba2b7301847e96c7dd01ba420a047d4cd49bb"
+    },
+    {
+      "name": "FOCUSPORT BENFICA BURKINA FASO.png",
+      "sha256": "f52a8915fff662048f6f606ef3798102be3b93f2be6f09f04462e8dfa75f8c4a"
+    },
+    {
+      "name": "FUNDAÇÃO SALESIANOS.png",
+      "sha256": "136cb3e08e9614dfeb536accf291eea09edbdc1c4309a26068f76eb95e92ab09"
+    },
+    {
+      "name": "FUNDACAO-SALESIANOS.jpg",
+      "sha256": "fd203190da43cadc77b0a22385b806c9dd385cf04e38e7130d3c041d71168793"
+    },
+    {
+      "name": "GC TAVIRA.png",
+      "sha256": "94385c4b441d08108c836ea157f899ac8163d0ac93a16cac506ad8f340d5d38d"
+    },
+    {
+      "name": "GD A-DOS-FRANCOS.png",
+      "sha256": "ce5e7131b3e8cce037bf4d6f7bb4ecb73f72e9f56773ceb9c8405aacd0da0aa4"
+    },
+    {
+      "name": "GD APULIA.png",
+      "sha256": "f9c03bdca9c2051a9179886ac9f6c83db1300a677b842dea175381351018d370"
+    },
+    {
+      "name": "GD ATOUGUIENSE.png",
+      "sha256": "f40da88c87daee5dfec0a8eb5a8294c3ffdb57174ea1073215209b54dd2fecf1"
+    },
+    {
+      "name": "GD FRAGOSO.png",
+      "sha256": "9707d9af6328b2a76765ccc06b7a2ce182f0ef0728dd4ffd7584b161084a86bf"
+    },
+    {
+      "name": "GD MALVEIRA DA SERRA.png",
+      "sha256": "2a9b3cddcf4a05cd770fabaa2067cd69835f1e7bf3fe9de211c3f773fe5fe2eb"
+    },
+    {
+      "name": "GD VIDREIROS.png",
+      "sha256": "2ffd279407c09c582de333af76361c2667f421936430b737dafb50deb729fa6e"
+    },
+    {
+      "name": "GD-ALCOCHETENSE.jpg",
+      "sha256": "02013dfc50118afea0f15ebe17411193c9df6ccedbb0899dd0ff1189e415913c"
+    },
+    {
+      "name": "GD-SAMORA-CORREIA.jpg",
+      "sha256": "dd8de9a322041395342b140f5efb434a451a8b6c8418accc87223535f20c9728"
+    },
+    {
+      "name": "GD-SOBREIRENSE.jpg",
+      "sha256": "8836c617e8d26881acb98d0afe037dff94443c6afcb523f0ca4600c82c3ce2c1"
+    },
+    {
+      "name": "GDC-A-DOS-FRANCOS.jpg",
+      "sha256": "b0905088fe2f32f5ab63fbb719bcdcd5268fd5d55a564a552a559d3446f60475"
+    },
+    {
+      "name": "GDU ERICEIRENSE.png",
+      "sha256": "f28a8a1b4c64ef6c33ea1d84c4cef6c3ebf83c2bb7e7f99dca89b9972d3f7502"
+    },
+    {
+      "name": "GONDOMAR SC.png",
+      "sha256": "1460744b64baa527d641dde6ff74ecdc4260f5b075487e69291e39651c09fda4"
+    },
+    {
+      "name": "GRAP.jpg",
+      "sha256": "0ed3ef933a405072b7dc14915d85d79e648683498ed77d03c4f55ef1e01d6de0"
+    },
+    {
+      "name": "GRAP.png",
+      "sha256": "040f78ff514e2579b26ecad8689d83af2094cf5bcf8a1559e2468fc258022aeb"
+    },
+    {
+      "name": "GRC CANICENSE.png",
+      "sha256": "c933cff87ce8178ee87e030efa74baa63257a3267cf4ab7b4d6665d3ab9d7fce"
+    },
+    {
+      "name": "GRD RANS.png",
+      "sha256": "3fedc337ed28315f28d895742438534ef795fee49f10c09f255f7abd4483f7d1"
+    },
+    {
+      "name": "GUIA-FC.jpg",
+      "sha256": "abde2450f6eaa7e4f3efd2aafeeb2a648fd760a9b88fdd8e990b7d67fe332d59"
+    },
+    {
+      "name": "JA-RIO-MEAO.jpg",
+      "sha256": "4777e94e54321384ff573e9b12deeab288534686c0f665c53d456427ae97b04d"
+    },
+    {
+      "name": "JUV SARILHENSE.png",
+      "sha256": "96c9a239c7f38b375ecd9d815b1e6d0be8fe253651ea478d742f7f56b0047655"
+    },
+    {
+      "name": "JUV. CASTANHEIRA.png",
+      "sha256": "1db72c19cf9f29400a829578e225d1cb39e3bcd6280684b4930144bcda572134"
+    },
+    {
+      "name": "JUVENTUDE SC.png",
+      "sha256": "7e57ff8425d560c51615ed3eceba0b84ab911dc3787183a854ab87e2b8443d48"
+    },
+    {
+      "name": "JUVENTUDE-ATLANTICO.jpg",
+      "sha256": "a8a327d41dd93b17e5c2704cd4555d5297683acfdb7a461bf09a957542c1f2d1"
+    },
+    {
+      "name": "JUVENTUDE-CASTANHEIRA.png",
+      "sha256": "0cc165362b495a7d2e08d9bca56c17f5594261f402ad4a8cccb75eafdd3b3dc3"
+    },
+    {
+      "name": "JUVENTUS FA MARROCOS.png",
+      "sha256": "c96966b4a3e40700dd73ffaf4ab72f98b9f7189cca4d481782520e61c4f5d316"
+    },
+    {
+      "name": "LEÇA FC.png",
+      "sha256": "b253628ba5d173892436bc15bac0cbd0fc6df70dcd22936dcd66e458da17b9db"
+    },
+    {
+      "name": "LEIXÕES SC.png",
+      "sha256": "63908bf61b211aa49856c27c59809c2fc7e65ba5aa72803e0a9faa586c46535e"
+    },
+    {
+      "name": "MCS MALTA - SL BENFICA.jpeg",
+      "sha256": "1b22b1d9f8826e4f84f302f9c466ed2a626fc5a6975fae5d7bda2316b86b4ab0"
+    },
+    {
+      "name": "MEM MARTINS SC.png",
+      "sha256": "1d91bb4cef0fa23bb2d913337311491368858638392d498828d4c3fc15e12bbd"
+    },
+    {
+      "name": "MEM-MARTINS-SC.jpg",
+      "sha256": "0db2cd89e4da01d0b86f358fbcc24295ea67490cbb041fd0915c334e15fc496e"
+    },
+    {
+      "name": "MONDIM-2008.png",
+      "sha256": "47a76c5e777179e5248556c3ca2005a465138246fea6af1583db42706a311f11"
+    },
+    {
+      "name": "NS RIO MAIOR.png",
+      "sha256": "dcddac3530c90cbb2e83d2174cb01eec16dfb14f85f91cec64e56cfcb7a1e5a0"
+    },
+    {
+      "name": "NS-RIO-MAIOR.jpg",
+      "sha256": "67d6c71901e68a38ea60589e881d8c01ebdea9c42cfc7af75338e240a615350b"
+    },
+    {
+      "name": "NSCP-MONDEGO.jpg",
+      "sha256": "b4ec1b0479263023b0b5539adbaf25878189a55cced62b42f52a397fef087182"
+    },
+    {
+      "name": "SANTIAGO-MASCOTELOS-FC.jpg",
+      "sha256": "1e1a94aa58dd3f80cddde8151c488ca92008b9557633d9e564e35a0600f1322d"
+    },
+    {
+      "name": "SÃO PAULO FC.png",
+      "sha256": "14c555e14527cdb630a5c591de4af8b6b8cfc27f612d4671f6024ea1c312a76b"
+    },
+    {
+      "name": "SC LOUREL.png",
+      "sha256": "3852784ddac2f0cd0cd7d0ec59849c28267daa624bac99bb1666d91e217ee96d"
+    },
+    {
+      "name": "SC LOURINHANENSE.png",
+      "sha256": "5039c7c52ba7f93284cd7dc7a06a4c7c083772c8d8a516766c705938900d600b"
+    },
+    {
+      "name": "SC OLHANENSE.png",
+      "sha256": "9eca5f5e340abfbdb6531ec34ce33a08f57aa49f6decb0a5e6cb5952661b307c"
+    },
+    {
+      "name": "SC RIBEIRENSE.png",
+      "sha256": "d99107acb50c0632a5eece77d24d863a8b854732e6c437e12525184b4fa309d6"
+    },
+    {
+      "name": "SC SANJOANENSE.png",
+      "sha256": "178d31067519848ad32a67d8c22634ebd820eeff906faf2a6f1c7193265a20f0"
+    },
+    {
+      "name": "SC VARZIM.png",
+      "sha256": "ae6b113a3a19cd420558b67e55d21389e0743b57562e7cfc4e675e34874e4941"
+    },
+    {
+      "name": "SC VILA VERDE.png",
+      "sha256": "467c7eb61f7c00e3866169cf422be1e0d4fe55745a1764a278c4e5a94b9e92cb"
+    },
+    {
+      "name": "SC-BEIRA-MAR.jpg",
+      "sha256": "5827163d3f5829a6e20c5ae587c569343aa422f3d8060f3a3a4c8a097f6b9d87"
+    },
+    {
+      "name": "SC-ODEMIRENSE.jpg",
+      "sha256": "4af32d951da33822a3cb88c313339fc77d2f6391efc01206927679b7f8c8d50b"
+    },
+    {
+      "name": "SCE-BOMBARRELENSE.jpg",
+      "sha256": "ab80c5eda63f3d1792990b54fc442716b3b13bb385c58546ee461f77bead2da6"
+    },
+    {
+      "name": "SCM ALJUSTRELENSE.png",
+      "sha256": "2361c9eb616f4aae50702b8b486293787d0ed05d4c45035419666c8a45f65421"
+    },
+    {
+      "name": "SCU TORREENSE.png",
+      "sha256": "4133cc51f5836672b2d530e07168a86a28509370b5745c0c164ac06608419d44"
+    },
+    {
+      "name": "SCUC CAMPELENSE.png",
+      "sha256": "9a1220a8afa3107ab5d5f771f77607fa9051c5bce304eacf2bd7560f882a78ae"
+    },
+    {
+      "name": "SF DAMAIENSE.png",
+      "sha256": "49b89225a5caaf39ef52d9cc94eefa4677c3b468930f3ef1937aad0fdde8a3b0"
+    },
+    {
+      "name": "SG-SACAVENENSE.jpg",
+      "sha256": "bd2ac8ed0488bb8b9b82579db01be3bc23644b0296522167f5b69c990a972464"
+    },
+    {
+      "name": "sl-benfica.png",
+      "sha256": "925cb3d8e73b0bf71dc9371a90ee6c889ddd7b052e7e5ae9b0dd68db5e6c65d1"
+    },
+    {
+      "name": "SL-CARTAXO.jpg",
+      "sha256": "f11df4f756fa140f3fb2d8e9a18106842d0e08801a7e72ec89ee41cf2210a984"
+    },
+    {
+      "name": "SLB.png",
+      "sha256": "292921d68506a8e1e80c7c8d8bb8aa18c3f94d22392d735b1dc447e04b402076"
+    },
+    {
+      "name": "SP LOUREL.png",
+      "sha256": "e188a07e59e2e70433822afa938d919402f5e53a43d3dafb698cf5e273068900"
+    },
+    {
+      "name": "sporting-cp.png",
+      "sha256": "d812ea655a020a7276b045f49668008ed22ff7f2a7825b590fd3eb7cea66d337"
+    },
+    {
+      "name": "SRD NEGRAIS.png",
+      "sha256": "56e0bc480804355759460a7e8bfb41efcd0957000604b927a39b3b253a192143"
+    },
+    {
+      "name": "SU ALFEIZERENSE.jpg",
+      "sha256": "913f8d21309b12700dd3229740b5d9f8c53ebf5533b7ec5aa93f38b6ec34be9e"
+    },
+    {
+      "name": "SU SINTRENSE.png",
+      "sha256": "8c75a05230587ed42c91086d60c2a2c94c41fbbb0f7b57ff53204e6e414c3f2d"
+    },
+    {
+      "name": "ud batalha.png",
+      "sha256": "a6cf87daf97bea25b91764fa557fb6b094d96f19c0f685af5159be002c033917"
+    },
+    {
+      "name": "UD RECREIO.jpeg",
+      "sha256": "c1a7612ac93870af1e58bb4033a4318bc27e70c41665cbe780ea7a6f7b0b7e88"
+    },
+    {
+      "name": "UD-SANTAREM-SAD.jpg",
+      "sha256": "9e203b93aa3621c326919530e8cae864516ac15816270b7dea9bdb566254fdf7"
+    },
+    {
+      "name": "UD-SERRA.jpg",
+      "sha256": "0005683d0685a45a59ce823728987d51c1523c6ba6ddf12f35fa8f03085a1492"
+    },
+    {
+      "name": "USC BALTAR.png",
+      "sha256": "05635a3c2aba63a3aa6d1722442f2d4aa4acf0deb81eb8c121e11a353a0d258c"
+    },
+    {
+      "name": "USC SANTIAGO CACÉM.png",
+      "sha256": "ee99c0b322ce86c1d8efe623e7d634cae0402e340a855c18ee2cc80430c67705"
+    },
+    {
+      "name": "VC PICO DA PEDRA.png",
+      "sha256": "456e324f24de4f2c872cf36b06caa12a4fdee7769d33251961c51eae1b5e45c4"
+    },
+    {
+      "name": "VILANOVENSE FC.png",
+      "sha256": "89ff69be6e9cac976d7ac2d27c3dad39155f73bb03580493fabcc44df2a47021"
+    },
+    {
+      "name": "VIMARANENSES.png",
+      "sha256": "68a61e069dd5603fec1373e68f7cfbe6c336fbbe53438abccff15e370b7c66b9"
+    },
+    {
+      "name": "WATFORD MASTER FC.jpg",
+      "sha256": "7dab51208e1e7744f962c26d135b86bfd0b0d7f57364c550caf8cfe0f0c4f2b5"
+    }
+  ]
+}
